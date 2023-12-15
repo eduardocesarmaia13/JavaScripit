@@ -4,5 +4,5 @@
 //var x = Math.floor(10.380) //floor = chão
 //document.write(x)
 
-var x = Math.round(10.580)
+var x = Math.round(10.580) // round = acerca de
 document.write(x)
